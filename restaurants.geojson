@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.273207,
+          23.119974
+        ]
+      },
+      "properties": {
+        "name": "广记掌亦煲",
+        "address": "广东省广州市越秀区万福路154号宗德宾馆1层",
+        "phone": "020-83333805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           113.303296, 23.219767  
+        ]
+      },
+      "properties": {
+        "name": "贺庄柴灶鱼",
+        "address": "广东省广州市白云区丛云路1018号",
+        "phone": "020-22842998"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           113.426193,23.114050 
+        ]
+      },
+      "properties": {
+        "name": "贺庄柴灶鱼",
+        "address": "广州市中山大道东85号与珠吉路1号交汇处"
+      }
+    }
+  ]
+}
