@@ -30,7 +30,7 @@
         "phone": "020-22842998"
       }
     },
-        {
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -41,6 +41,46 @@
       "properties": {
         "name": "贺庄柴灶鱼",
         "address": "广州市中山大道东85号与珠吉路1号交汇处"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            113.271963, 23.118067
+        ]
+      },
+      "properties": {
+        "name": "九大簋家宴",
+        "address": "广东省广州市越秀区珠光路131-1号"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            113.290739, 23.101508
+        ]
+      },
+      "properties": {
+        "name": "Chef House 主厨",
+        "address": "怡海路190号金麟台首层商铺之三"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+              113.541507, 23.093720
+        ]
+      },
+      "properties": {
+        "name": "安记鱼锅",
+        "address": "黄埔东路南岗新街市2层",
+        "phone": "13533030733"
       }
     }
   ]
