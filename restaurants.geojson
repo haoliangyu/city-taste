@@ -82,6 +82,34 @@
         "address": "黄埔东路南岗新街市2层",
         "phone": "13533030733"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+              113.364949, 23.200998
+        ]
+      },
+      "properties": {
+        "name": "十里香牛杂煲",
+        "address": "广州市天河区龙路森林公园南侧100米处饺子皇旁边直入30米园对面迎福路(直入100米)",
+        "phone": "13560447383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+               113.279896,22.975498 
+        ]
+      },
+      "properties": {
+        "name": "成记农庄鹿肉宴",
+        "address": "石壁街道钟韦公路高铁桥底(钟村屠场公交站附近)",
+        "phone": "02031068483"
+      }
     }
   ]
 }
