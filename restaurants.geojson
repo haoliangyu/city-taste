@@ -110,6 +110,20 @@
         "address": "石壁街道钟韦公路高铁桥底(钟村屠场公交站附近)",
         "phone": "02031068483"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+                113.381255, 23.120316
+        ]
+      },
+      "properties": {
+        "name": "平又鲜蟹馆",
+        "address": "科新路351号(食神汇对面)",
+        "phone": "13310899898"
+      }
     }
   ]
 }
