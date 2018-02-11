@@ -61,19 +61,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-            113.290739, 23.101508
-        ]
-      },
-      "properties": {
-        "name": "Chef House 主厨",
-        "address": "怡海路190号金麟台首层商铺之三"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
               113.541507, 23.093720
         ]
       },
@@ -123,6 +110,20 @@
         "name": "平又鲜蟹馆",
         "address": "科新路351号(食神汇对面)",
         "phone": "13310899898"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+                113.287298, 22.785668
+        ]
+      },
+      "properties": {
+        "name": "河东私烤",
+        "address": "佛山顺德区顺德新城区澄海路(近万科新城湾畔)",
+        "phone": "(0757)22299008"
       }
     }
   ]
