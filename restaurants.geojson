@@ -16,6 +16,20 @@
         "phone": "020-83333805"
       }
     },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           113.294875 ,23.071914
+        ]
+      },
+      "properties": {
+        "name": "川西坝子火锅",
+        "address": "瑞宝南路东晓南胜汇里商业步行街二楼(地铁站B出口对面)"
+      }
+    },    
+    
      {
       "type": "Feature",
       "geometry": {
