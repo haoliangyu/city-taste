@@ -16,6 +16,20 @@
         "phone": "020-83333805"
       }
     },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           113.260440 ,23.123557
+        ]
+      },
+      "properties": {
+        "name": "雅苑餐厅",
+        "address": "广州越秀区朝天路14号后座2楼",
+        "phone": "(020)83355808"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
