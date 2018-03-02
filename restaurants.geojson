@@ -16,6 +16,34 @@
         "phone": "020-83333805"
       }
     },
+      {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           113.332148 , 23.139016
+        ]
+      },
+      "properties": {
+        "name": "三人行法国西餐厅",
+        "address": "信成南街5号1楼",
+        "phone": "02038815325"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           113.266194 ,23.110025
+        ]
+      },
+      "properties": {
+        "name": "裕华",
+        "address": "广东省广州市海珠区南华东路550号解放桥引桥下",
+        "phone": "(020)84426384"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
