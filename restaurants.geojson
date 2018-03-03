@@ -16,6 +16,20 @@
         "phone": "020-83333805"
       }
     },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           113.270016 , 23.094737
+        ]
+      },
+      "properties": {
+        "name": "胜利厅",
+        "address": "广州市海珠区江南西路66号润汇大厦3层",
+        "phone": "(020)34283898"
+      }
+    },
       {
       "type": "Feature",
       "geometry": {
