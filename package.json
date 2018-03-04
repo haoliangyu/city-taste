@@ -1,0 +1,26 @@
+{
+  "name": "city-taste",
+  "version": "1.0.0",
+  "description": "city-taste restaurant",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haoliangyu/city-taste.git"
+  },
+  "scripts": {
+    "precommit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.{geojson}": ["prettier --write", "git add"]
+  },
+  "author": "Haoliang Yu <haholiang.yu@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haoliangyu/city-taste/issues"
+  },
+  "homepage": "https://github.com/haoliangyu/city-taste#readme",
+  "devDependencies": {
+    "husky": "^0.14.3",
+    "lint-staged": "^7.0.0",
+    "prettier": "^1.11.1"
+  }
+}

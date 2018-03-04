@@ -6,6 +6,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+           113.269998 ,23.117585
+        ]
+      },
+      "properties": {
+        "name": "广油鸡",
+        "address": "越秀区北京南路左二巷6号",
+        "phone": "13660625226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            113.243062,23.113484
+        ]
+      },
+      "properties": {
+        "name": "第一家猪脚姜",
+        "address": "第十甫路57号旁吉鸿居4号"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+             113.241628, 23.115643 
+        ]
+      },
+      "properties": {
+        "name": "陈添记",
+        "address": "宝华路十五甫三巷2号之二首层"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           113.273207,
           23.119974
         ]
@@ -70,8 +110,8 @@
         "name": "川西坝子火锅",
         "address": "瑞宝南路东晓南胜汇里商业步行街二楼(地铁站B出口对面)"
       }
-    },    
-    
+    },
+
      {
       "type": "Feature",
       "geometry": {
@@ -91,7 +131,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-           113.303296, 23.219767  
+           113.303296, 23.219767
         ]
       },
       "properties": {
@@ -105,7 +145,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-           113.426193,23.114050 
+           113.426193,23.114050
         ]
       },
       "properties": {
@@ -159,7 +199,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-               113.279896,22.975498 
+               113.279896,22.975498
         ]
       },
       "properties": {
