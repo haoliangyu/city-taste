@@ -7,10 +7,14 @@
     "url": "git+https://github.com/haoliangyu/city-taste.git"
   },
   "scripts": {
-    "precommit": "lint-staged"
+    "lint": "geojsonhint city-taste.geojson",
+    "precommit": "lint-staged && npm run lint"
   },
   "lint-staged": {
-    "*.{geojson}": ["prettier --write", "git add"]
+    "*.geojson": [
+      "prettier --write",
+      "git add"
+    ]
   },
   "author": "Haoliang Yu <haholiang.yu@outlook.com>",
   "license": "MIT",
@@ -19,6 +23,7 @@
   },
   "homepage": "https://github.com/haoliangyu/city-taste#readme",
   "devDependencies": {
+    "@mapbox/geojsonhint": "^2.0.1",
     "husky": "^0.14.3",
     "lint-staged": "^7.0.0",
     "prettier": "^1.11.1"
