@@ -5,6 +5,31 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [113.338931, 22.908651]
+      },
+      "properties": {
+        "name": "成记爬金山",
+        "address":
+          "广州番禺区沙湾镇东村经述路沙场巷二横巷9号(青萝市场前50米右转)",
+        "phone": "(020)84731600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.256482, 23.114365]
+      },
+      "properties": {
+        "name": "林记粥品店",
+        "address": "越秀区海珠南路157号(大新路同一德路之间,近陈仲生牙科诊所)",
+        "phone": "(020)88909356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [113.315727, 23.140546]
       },
       "properties": {
