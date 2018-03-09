@@ -5,6 +5,31 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [113.270398, 23.121757]
+      },
+      "properties": {
+        "name": "周生记太爷鸡",
+        "address": "文明路37号(北京路口)",
+        "phone": "(020)83356168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.233152, 23.11877]
+      },
+      "properties": {
+        "name": "竹园竹升面店",
+        "address":
+          "荔湾区黄沙大道荔枝湾风景区2期C4号铺(侨美唐荔园酒楼旁小路直入100米)",
+        "phone": "18218707718"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [113.338931, 22.908651]
       },
       "properties": {
