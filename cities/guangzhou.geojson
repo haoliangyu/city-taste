@@ -5,6 +5,29 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [113.340792, 23.10755]
+      },
+      "properties": {
+        "name": "清漫餐吧琶醍店",
+        "address": "广东省广州市海珠区新港东路磨碟沙大街118号琶醍B区二楼"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.32755, 23.090719]
+      },
+      "properties": {
+        "name": "清心鸡沙田乳鸽店",
+        "address": "海珠区赤岗路99号首层",
+        "phone": "(020)84212384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [113.270398, 23.121757]
       },
       "properties": {
