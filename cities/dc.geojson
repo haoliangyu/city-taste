@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.229335, 38.871794]
+      },
+      "properties": {
+        "name": "JINYA Ramen Bar",
+        "address": "2911 District Ave #140, Fairfax, VA 22031",
+        "phone": "(703) 992-7656",
+        "website": "jinya-ramenbar.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.171345, 38.882851]
+      },
+      "properties": {
+        "name": "Hot N Juicy Crawfish",
+        "address": "116 W Broad St, Falls Church, VA 22046",
+        "phone": "(703) 992-8700",
+        "website": "hotnjuicycrawfish.com"
+      }
+    }
+  ]
+}

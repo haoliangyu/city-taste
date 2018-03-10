@@ -1,12 +1,14 @@
-# 品城记
+# 品城
 
 [![Build Status](https://travis-ci.org/haoliangyu/city-taste.svg?branch=master)](https://travis-ci.org/haoliangyu/city-taste)
 
-记录那些[品城记](www.acfun.cn/u/10725427.aspx)探过的餐厅
+记录一些不错的饭店餐厅
+
+来源：[品城记](www.acfun.cn/u/10725427.aspx)，个人探索
 
 ![map](map.png)
 
-## 广州
+## [广州](./cities/guangzhou.geojson)
 
 * 成记爬金山
 
@@ -23,3 +25,13 @@
 * 周生记太爷鸡
 
   文明路 37 号
+
+## [Washington DC](./cities/dc.geojson)
+
+* JINYA Ramen Bar
+
+  2911 District Ave #140, Fairfax, VA 22031
+
+* Hot N Juicy Crawfish
+
+  116 W Broad St, Falls Church, VA 22046
