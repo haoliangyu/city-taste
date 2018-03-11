@@ -5,6 +5,17 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [113.36677, 22.942374]
+      },
+      "properties": {
+        "name": "番禺宾馆",
+        "address": "中国广东省广州市番禺区市桥大北路130号"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [113.340792, 23.10755]
       },
       "properties": {

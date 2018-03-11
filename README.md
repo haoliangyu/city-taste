@@ -34,6 +34,10 @@
 
   广东省广州市海珠区新港东路磨碟沙大街 118 号琶醍 B 区二楼
 
+* 番禺宾馆
+
+  中国广东省广州市番禺区市桥大北路 130 号
+
 ## [Washington DC](./cities/dc.geojson)
 
 * JINYA Ramen Bar
