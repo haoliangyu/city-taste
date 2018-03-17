@@ -5,6 +5,17 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [113.274989, 23.102724]
+      },
+      "properties": {
+        "name": "诚成煎饺",
+        "address": "前进路基立南街14号之一之二"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [113.36677, 22.942374]
       },
       "properties": {
