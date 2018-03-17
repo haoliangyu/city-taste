@@ -38,6 +38,14 @@
 
   中国广东省广州市番禺区市桥大北路 130 号
 
+* 诚成煎饺
+
+  前进路基立南街 14 号之一之二
+
+* 老凤冰室
+
+  广州市番禺区光明北路 281 号
+
 ## [Washington DC](./cities/dc.geojson)
 
 * JINYA Ramen Bar

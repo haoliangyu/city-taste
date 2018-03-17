@@ -5,6 +5,17 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [113.361356, 22.952498]
+      },
+      "properties": {
+        "name": "老凤冰室",
+        "address": "广州市番禺区光明北路281号"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [113.274989, 23.102724]
       },
       "properties": {
