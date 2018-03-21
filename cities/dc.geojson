@@ -18,6 +18,32 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-77.023108, 38.917943]
+      },
+      "properties": {
+        "name": "Haikan",
+        "address": "805 V St NW, Washington, DC 20001",
+        "phone": "(202) 299-1000",
+        "website": "https://www.haikandc.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.019595, 38.898599]
+      },
+      "properties": {
+        "name": "Daikaya Ramen Shop",
+        "address": "705 6th St NW, Washington, DC 20001",
+        "phone": "(202) 589-1600",
+        "website": "http://www.daikaya.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-77.171345, 38.882851]
       },
       "properties": {

@@ -52,6 +52,14 @@
 
   2911 District Ave #140, Fairfax, VA 22031
 
+* Haikan
+
+  805 V St NW, Washington, DC 20001
+
+* Daikaya Ramen Shop
+
+  705 6th St NW, Washington, DC 20001
+
 * Hot N Juicy Crawfish
 
   116 W Broad St, Falls Church, VA 22046
